@@ -1,4 +1,4 @@
-# 🌿🍵 Ingrid Campos 🍵🌿
+# 🌿 Ingrid Campos 🍵
 **` Back-End Student `** **`- Java | Python -`** 
 
  ### Current learning Java from the course [Java10x](https://java10x.dev/)  from [Horacio Muller](https://github.com/horaciomuller) a great Teacher
